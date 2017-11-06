@@ -38,19 +38,19 @@ sys.setdefaultencoding('utf-8')
 # album = None
 # image_path = 'tmp/tmp.jpg'
 
-helpMessage ="""HenZ Bot Pro V.10
+helpMessage ="""Pekok Bot Pro V.10
 
-🔹 Komando Member HenZ Bot V.10🔹
+🔹 Komando Member Nugi Bot V.10🔹
 「Creator」Melihat Pembuat Bot
 「Henz say」Mengikuti Apa Yang DiKatakan
 「Gcreator」Check Creator Grup
 
-🔹 Komando Creator HenZ Bot V.10🔹
+🔹 Komando Creator Nugi Bot V.10🔹
 「Admin add @」Menambahkan Admin
 「Admin remove @」Menghapus Admin
 「Adminlist」Cek Admin
 
-🔹 Komando Admin HenZ Bot 🔹
+🔹 Komando Admin Nugi Bot 🔹
 🛡 Id = Melihat ID
 🛡 Mid = Melihat Mid Bot
 🛡 Mid @ = Melihat Mid Yang Dituju
@@ -98,8 +98,8 @@ helpMessage ="""HenZ Bot Pro V.10
 [Cleanse] Jangan Keluarkan Perintah Ini 🤐
 
 ==================================
-Creator ⏩ line://ti/p/~my.name.henz ⏪
-Support by : 
+Creator ⏩ Nugi pekok
+Dukungan oleh: 
 ⏩ Cyber Bot Indonesia ⏪
 ⏩ Police Line Indonesia ⏪
 ⏩ Komunitas IT Se-Indonesia ⏪
@@ -108,7 +108,7 @@ Iling-iling : Hanya Admin Yang Bisa Menggunakan Bot
 NB:
 Jika terjadi apa-apa pada Room Siri atau Room Tanpa Siri anda, jangan salahkan kami bila itu terjadi. Admin tidak mau bertanggung jawab atas kesalahan yang di buat oleh pengguna Bot selain Admin.
 
-😈Don't Try At Home 😈
+😈Don't Nugi Home 😈
 """
 KAC=[cl,ki,kk,kc]
 mid = cl.getProfile().mid
@@ -126,9 +126,9 @@ wait = {
     'leaveRoom':True,
     'timeline':True,
     'autoAdd':True,
-    'message':"Terima kasih sudah add, jika butuh bot protect silahkan PM ➡ line://ti/p/~my.name.henz",
+    'message':"Terima kasih sudah add",
     "lang":"JP",
-    "comment":"Terima kasih sudah add, jika butuh bot protect silahkan PM ➡ line://ti/p/~my.name.henz",
+    "comment":"Terima kasih",
     "commentOn":True,
     "commentBlack":{},
     "wblack":False,
